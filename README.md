@@ -2,7 +2,7 @@
 
 
 Following algorithms have been implemented for CDiscount Image Classificaion Challenge. 
-1.	Baseline model having 3 Convolution layer Deep learning model
+1.	Baseline model having 3 Convolution layer Deep learning model along with SMOTE Oversampling
 2. 	VGG 16 
 3. 	VGG 19
 4. 	ResNet50
